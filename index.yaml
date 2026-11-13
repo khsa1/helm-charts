@@ -60,7 +60,7 @@ entries:
         url: https://keybase.io/communitycharts/pgp_keys.asc
     apiVersion: v2
     appVersion: 3.16.0
-    created: "2026-11-13T11:23:24.103067-08:00"
+    created: "2026-11-13T11:28:35.86422-08:00"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -76,7 +76,7 @@ entries:
       version: 5.4.0
     description: A Helm chart for Mlflow open source platform for the machine learning
       lifecycle
-    digest: b136abcf2ac4ae75ffde06db4bc802a72655055d1dbee9874829bcb6673ab29d
+    digest: 5408420890ddc1f9c590d352f3a7b72c0a2d3af4fb0fab9ec4a4afc796d33588
     home: https://mlflow.org
     icon: https://raw.githubusercontent.com/mlflow/mlflow/master/assets/logo.svg
     keywords:
@@ -102,6 +102,6 @@ entries:
     - https://github.com/mlflow/mlflow
     type: application
     urls:
-    - https://khsa1.github.io/community-charts/mlflow-1.11.8.tgz
+    - https://khsa1.github.io/helm-charts/mlflow-1.11.8.tgz
     version: 1.11.8
-generated: "2026-11-13T11:23:24.092391-08:00"
+generated: "2026-11-13T11:28:35.854194-08:00"
